@@ -10,6 +10,10 @@ Although currently the tool is in it's MVP stage, the ultimate goal is to make i
 Currently there is not much competition in the field of real time physics engine based music software and hardware.
 There are a few instances of tools that do similar things, for instance single particle simulation in eurorack format, and a creative tool based off realtime planet positions.
 No other tools have been found, however, that allow a user to have full control over a small scale, real-time, physics engine.
+Most of the possible competition, even those not directly related to this concept but more aesthetically similar, will likely be on [VCV Rack](https://vcvrack.com/).
+
+> [Quantum Chromodynamic Trigger Sequencer](https://library.vcvrack.com/Geodesics-Vultiverse/Hexaquark) is aesthetically similar  
+> [Quadrivium](https://www.giorgiosancristoforo.net/softwares/) is conceptually similar, but not part of VCV Rack
 
 # Objective
 
@@ -28,7 +32,7 @@ This project is intended to be perceived as a tool for experimental and artistic
 # Media
 
 The media aspect of this project, or otherwise distribution platform, will be software, be it on an application or embedded level.
-A form of high resolution visual feedback is of high importance to the concept and implementation. 
+A form of high resolution visual feedback is of high importance to the concept and implementation.
 
 [co_one]: ./collision_one.png "elastic collision simulation"
 [co_two]: ./collision_two.png "elastic collision simulation"
