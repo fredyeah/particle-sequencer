@@ -19,9 +19,16 @@ The tool proves itself very useful for generating complex rythms and wave forms 
 # Target Audience
 
 The target audience for this project is users who are looking for alternative methods of sudo-random control signal generation and generative audio.
-The Particle Sequencer is intended to allow any user to explore possible bridges and bonds between interactions between physical objects and interactions between creative ideas. 
+The Particle Sequencer is intended to allow any user to explore possible bridges and bonds between interactions between physical objects and interactions between creative ideas.
+
+# Tone of Voice
+
+This project is intended to be perceived as a tool for experimental and artistic expression.
 
 # Media
+
+The media aspect of this project, or otherwise distribution platform, will be software, be it on an application or embedded level.
+A form of high resolution visual feedback is of high importance to the concept and implementation. 
 
 [co_one]: ./collision_one.png "elastic collision simulation"
 [co_two]: ./collision_two.png "elastic collision simulation"
